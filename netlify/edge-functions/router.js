@@ -8,7 +8,7 @@
 // Cloudflare Worker, used to compare the two head to head.
 
 const WEBFLOW_ORIGIN = "wf.rivyl.net";
-const WP_ORIGIN = "stonerealestate.com.au";
+const WP_ORIGIN = "ilmlatest.kinsta.cloud";
 
 // Paths served by Webflow. Everything else -> WordPress.
 const WEBFLOW_EXACT = ["/"];
