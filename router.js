@@ -6,6 +6,7 @@
 // the response HTML + redirects so the backend hostname stays masked behind
 // the public (netlify.app) URL. This is the Netlify equivalent of the
 // Cloudflare Worker, used to compare the two head to head.
+// Cloudflare Code
 
 const WEBFLOW_ORIGIN = "wf.rivyl.net";
 const WP_ORIGIN = "ilmlatest.kinsta.cloud";
